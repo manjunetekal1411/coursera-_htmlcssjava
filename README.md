@@ -1,2 +1,2 @@
-# coursera-_htmlcssjava
+# coursera_htmlcssjava
 coursera html css java learning repository
